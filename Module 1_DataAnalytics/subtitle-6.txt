@@ -1,0 +1,25 @@
+So in the analytics computing or modeling stage for numerical data, we need to compute basic statistics. So we are going to find out,
+given a list of numbers, we need to find out the average,
+the variance, the largest value, smallest value,
+and once the data got sorted, what would be the median value,
+etc., okay? And then we are going to find out
+the groups among the data and we are going to compute
+the desired values for each group. For instance, say,
+the average of each group, right? And then a lot of times, we also need to construct models
+out of the data available. And typically we refer this as
+machine learning or data mining. And traditional statistics,
+different prediction models will be constructed in this stage,
+okay? And data visualization
+module cannot be emphasized more than enough simply because
+humans are visual animals, right? So we tell a lot of things
+out of pictures, okay? So in particular,
+data visualization help us to explore the data, understand data, and demonstrate findings out of the data,
+and even show us the future, such as the future growth prediction,
+etc., okay? All right, so again, at the end, our final deliverables
+will be possibly a report, a summary, etc., a software product for the engineer or
+the data scientist to use in the future. Or our deliverable is another set of input data that will be delivered to another data science pipeline, okay? Okay, so
+this video is about data science pipeline. And again, as you can see, we are more interested in
+these essential four stages. And in this class we will
+discuss each component or each stage with more examples and explanations and
+sample code in Python, okay? Thank you, if you have any questions,
+please contact us. And I will see you in another video. Thank you and bye.

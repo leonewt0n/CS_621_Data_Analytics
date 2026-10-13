@@ -1,0 +1,52 @@
+Well, of course,
+unstructured data will be, there's nothing in terms of
+structure that software, our system can just
+lower data and use it so it's like a raw data. Usually we need to involve
+with processing the data, engineering or
+cleaning before we can even do anything simple. Usually data are more
+complicated, for instance, we have the whole book
+is data source to you, many photos, long
+hours of video files. Then simple things even
+like Internet web pages, email different, like email web server or
+system server log files. Because this data, even
+though they are unstructured, but they contain lots of variable information to us
+so we would like to first process them and make the
+data usable first and then we apply analytics or
+computing on top of this data. There are many free
+data sources online possibly and of
+course if you own your own data or you
+work for companies, got proprietary data interested to be analyzed, that's good. But if you don't have
+any your own data yet, then we are going to rely on free online data to be our
+experiments, if you will. I'm providing two sources here. One is KDnuggts, so please follow this
+URL and they have a lot of data sets links
+for you to explore. Keep in mind most of
+them are raw data, not clean, and in really
+a primitive formats. But obviously they're huge and then another really
+good source data for many data scientists to begin their journey is Kaggle. I'm sure a lot of you guys
+are familiar with this. kaggle.com/datasets a lot of interest data for you to use. Again, this is
+particularly useful for beginners and also season
+data scientists, of course, because most of the
+data provided by Kaggle the data has been cleaned or
+been used by many engineers, programmers, data
+scientists so many errors are being caught so that's why the data are very usable and very popular
+among data scientists. This is a small part of
+the data from Kaggle, I think it's a California
+housing data or something. I'm just trying to
+demonstrate a sample here. Most of the data samples
+we are going to use in this class will be in
+this tabular format, CSV, table, if you will so it'll be row by column fashion. Each column is an attribute to the data and each row
+is a single record or single data object
+and depending on your column data type and each
+sale would be a numerical, non numerical, few
+items possibly, etc. Here are the snapshot
+of one of the Amazon product reviews
+so we have 4,5 reviews. We are going to treat this like Internet web page data and then how we are going
+to collect the data or retrieve the data
+usable and useful to us like reviews in particular and which date the review
+was uploaded, etc. I get the first one
+here, May 9, 2021, and data source like in this will be regarded as
+unstructured data. This set of slides gives you
+a brief introduction about the data and many of them will be further explored
+later in the class. Thank you. If you
+have any questions, please contact us and I'll
+see you in another video. Bye.

@@ -1,0 +1,38 @@
+Hi, this set of slides is about data. So we are going to give a brief overview on data domains and data storage and formats, structured data, semi-structured data and
+unstructured data. And we are also going to provide you some data sources and look at a few examples. So data collected from
+different domains and many domains are having
+lots of data these days. Business domain, scientific,
+health care domain and Web social network domains, manufacturers. So these are most common
+domains that got a lot of data collected these days, right, okay? So most of these are driven
+by having servers, all kinds of system servers, devices, sensors, and basically most of the data these days are stored in the cloud. So from software system perspective, data stored in traditional databases and data recorded in XML format, JSON format and pure TEXT files, CSV, text files and multimedia data like audio, images, videos, and commonly they are in MP3, MP4, JPEG and PNG file formats for pictures, okay? So the data store in different places or formats from different applications. So roughly we can treat
+them as numerical data, text data, temporal data, data involved with time, okay? Spatial data, data got location indexed, binary data, 0, 1s, multimedia data, Internet streaming data, okay, and also network data, okay? So typically we like to categorize data
+roughly in three kind of formats or availabilities structured data, semi-structured data and
+unstructured data. So structured data, well,
+apparently they are structured, right? So typically we call data stored
+in well defined databases, SQL servers if you will, and
+they are structured data. Simply because for
+those data before they can store into the well-defined databases, they have to be validated
+from the requirements so that they can be uploaded to the database,
+right? So they are installed in the database. So we are going to retrieve
+them using standard database access languages such as SQL,
+okay? All right, and
+many of you already know databases, so for databases, not only you can read,
+you can also write, right? But in this class, typically we
+are interested in read the data available to us and
+do the analytics afterwards, okay? And we are also going to focus on data
+retrieved from relational databases. So basically we are going
+to use simple SQL commands to retrieve the data, okay? So the other common type for
+data would be so called a semi-structured data. So it's not as structured or restricted like database, okay? So usually data stored in XML or
+JSON files and we are going to refer them
+as semi-structured data. So later in a class we
+will have a detailed discussion on how this
+data got defined and utilized in our programs. And again, for semi-structured data,
+we also can do a read and write. In this class,
+we are going to focus on reading the data in semi-structured format such as XML and
+JSON, okay? So CSV files, sometimes they are also
+referred as semi-structured data, okay? Later we will see detailed explanation and sample files, but
+depends on how clean the CSV file is. Sometimes you can see that
+it's semi-structured, almost structured data, well-defined, etc. But a lot of times CSV files could
+because there's really no any limitation. So the format is in CSV,
+but the data structure could be really not well-defined, okay? So sometimes even in CSV, it's almost
+like an unstructured data, okay, right?

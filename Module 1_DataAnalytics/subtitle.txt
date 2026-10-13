@@ -1,0 +1,26 @@
+Hi, let's have some introduction to this
+Class CS 621, Data Analytics. Usually, the similar
+class materials or similar class being called
+under different names. We have data analytics or
+sometimes data science, even big data as a course title. Some intensive disciplines would like to refer such class, Data Intensive Computing and
+among others for instance, like say in business
+college probably a similar class will be called as Business
+Data Analytics, or simply Business Analytics. Well, the reason for having this class or why we need
+to study for this class, is obviously we have
+lots of data and we commonly use big data to
+describe this phenomenon. Because of the big data, there are so many
+new applications and challenges, and
+opportunities also. In this class, in particular, we are CS or software
+focus class. We are going to
+try to understand data analytics or big data
+from software perspective. Let's have some big
+numbers as illustration. 90% of the world's data are being created in
+the last two years, and according to Twitter or X these days they had like
+a 500 million tweets a day. Probably even more these days. For YouTube, they have 100 hours of video uploaded
+every single minute. From Amazon and in one
+of their Cyber Mondays, one record was set as 426
+items sold per second. Facebook, 2.5 billion
+pieces of content are shared every
+day and Instagram, TikTok, 100 billion emails, Gmail 55 million photos
+by Instagram, etc. Well, apparently these numbers are getting even
+larger as we speak

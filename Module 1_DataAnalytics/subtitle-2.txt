@@ -1,0 +1,38 @@
+New challenges include, lots of data and well data
+stored in different formats, and describe all contents
+and a huge quantity of them. Because of the Internet and wireless mobile
+devices, et cetera. Streaming data is common
+and popular these days, because of the streaming nature, that data got
+accumulated so fast. Because of the data is
+a quantity and variety. We would like to understand
+the data and it's inside, so to speak, in real
+time or near real time. That is, we'd like to understand what's going on as
+soon as possible. From a software perspective, due to the quantity and variety and accumulating
+speed of this data, our system and our software
+needs to be scalable. Because the data distributed, and computation is no
+longer centralized, this whole territory is so big. Many different talents
+such as programmers, data scientists,
+and context experts and so on and so forth. Usually, we categorize big data in 3V's and they are volume, lots of them in terabyte pay scales velocity because
+accumulated speed. A variety due to the nature of the data
+contains lots of information. Sometimes we refer the inside
+of this data as knowledge. Commonly we like to categorize, again, a big data in 3Vs. That is, as long as
+data has this 3Vs, then we'd like to
+call them big data. Sometimes some disciplines
+they prefer to use 5Vs, 3Vs plus value and veracity. Usually the value is embedded
+in the variety so to speak, and veracity basically in
+trying to make sure data, provided they are reliable or they came from
+reliable sources. All these driven by hardware, software, and plus applications. Obviously, much more
+advanced hardware available and new development in terms of software applications
+or Internet of things, devices connected. Also as business grows. Different domains such
+as business, nature, science, healthcare, and
+education, to name a few. Who works with big data? Apparently, people in specific
+domains like a business, banking and statisticians
+apply math people, computer science people,
+business people, and IT people to support the system
+integration et cetera. This is just a
+brief introduction to this class that why we
+need to take this class, why this is interesting
+and challenging different applications
+and domain et cetera. We'll have more details to be discussed in
+other future slides. Thank you and I
+will see you. Bye.

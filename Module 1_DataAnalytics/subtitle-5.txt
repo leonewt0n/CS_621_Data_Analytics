@@ -1,0 +1,42 @@
+Hi. Next, let's have
+some discussion on data science or data
+analytics pipeline. You can see this diagram is a typical data
+science pipeline. Usually, we have data
+sources to begin with, more than one source possibly. Then the next stage, or next module, or next component
+is data ingestion. This stage focuses
+on how to get data, lower data into our system. The next stage would
+be data engineering. Basically this is how or where we're going
+to clean the data, filter in the data, or even massage the
+data, if you will. Data engineering, so all
+kinds of processing data work will be happening right here. The next stage is the most
+important module to us. We normally refer this
+component as analytics, or computation, computing, or modeling, et cetera. Notice I have a big
+self looped arrow here that is trying to indicate
+a lot of the work here. They have to be repeated so many different types
+using different parameters, different proportion of
+the data, et cetera. You notice most of
+the analytic work, they are happening right
+here in this component. The other essential component in the data science pipeline
+is data visualization, since visualization is so powerful in helping
+data analytics. So at the end, we are going to deliver what the clients
+would like to have, so including possibly
+reports, suggestions, recommendations,
+software, et cetera. So from a computer science
+software perspective, we are mostly interested in these four modules,
+data injection, data engineering, computing for analytics, and visualization. So in data ingestion stage, we pay attention to various data sources,
+various data formats. Once we are allowed
+to get the data, or retrieve the data, or download the data
+from the data sources, what kind of data
+structures will be used in our system to store the
+data available to us? In the data engineering stage, typically it involves
+data validation, so we had to check the
+data types are correct, and we are also
+interested in finding out those empty
+sales, if you will. Missing values or empty values, or simply we just refer them as null values We are also going
+to perform error checking, such that, for a given column, what would be the correct range between the minimum
+value and maximum value? For instance, like the
+age of a human object. It would be from
+zero to say 125. So it wouldn't be
+500 for instance. If it's negative value, it would be incorrect. In this stage, we are
+also going to clean data, remove duplicates,
+redundant data, remove outliers, et cetera.
