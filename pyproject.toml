@@ -1,0 +1,24 @@
+[project]
+name = "cs-621-data-analytics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Leo Newton", email = "leo.newton@icloud.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "folium>=0.20.0",
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "pandas>=3.1.0",
+    "plotly>=7.1.0",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+cs-621-data-analytics = "cs_621_data_analytics:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"
