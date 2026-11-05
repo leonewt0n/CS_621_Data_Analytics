@@ -1,0 +1,37 @@
+Check Big Data definitions from the following websites:
+
+From Oracle : 
+https://www.oracle.com/big-data/what-is-big-data/
+
+From wiki: 
+https://en.wikipedia.org/wiki/Big_data
+
+From IBM: 
+https://developer.ibm.com/blogs/what-is-big-data-more-than-volume-velocity-and-variety/
+
+Check how Data Science/Analytics is defined from the following websites:
+
+From IBM: 
+https://www.ibm.com/topics/data-science
+
+From TIBCO: 
+https://www.tibco.com/reference-center/what-is-data-analytics
+
+Wiki: 
+https://en.wikipedia.org/wiki/Data_science
+
+A data science pipeline(similar to our discussed) reference can be found here:
+
+https://schoolofdata.org/handbook/
+
+Kaggle has many and interesting datasets for us to explore:
+
+https://www.kaggle.com/datasets
+
+You can download and install a local copy of Anaconda:
+
+https://www.anaconda.com/
+
+If you already got Python installed in your machine, you can download Jupyter and use it as a development platform directly. 
+
+https://jupyter.org/install

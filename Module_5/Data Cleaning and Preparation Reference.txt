@@ -1,0 +1,6 @@
+More reference about detecting missing data and duplicates in Pandas can be found in book:
+
+Python for Data Analysis, 
+https://wesmckinney.com/book/
+
+Chapter 7: "Data Cleaning and Preparation"

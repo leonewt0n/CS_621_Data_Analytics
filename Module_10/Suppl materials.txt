@@ -1,0 +1,13 @@
+Check more aboutBeautiful Soup here:
+
+https://www.crummy.com/software/BeautifulSoup/
+
+Check more about Twitter API here:
+
+https://developer.twitter.com/en/docs/twitter-api
+
+Note: Twitter, now X, API is under major changes these days. Many online APIs cannot be used anymore. 
+
+Check more about YouTube Data API here:
+
+https://developers.google.com/youtube/v3

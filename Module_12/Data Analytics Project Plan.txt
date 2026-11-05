@@ -1,0 +1,54 @@
+Data analytics project planning peer review project
+
+Choose an application domain and lay out a data analytics project plan.
+
+Suggested length of report: 3-5 pages.
+
+Suggested format of report: a regular written document or a set of PPT slides (both in pdf)
+
+I suggest using the data science pipeline as a blueprint
+
+to include the following in the report.
+
+1. Give an overall introduction to the project. 
+
+2. For data source stage, describe the data and provide a small sample set of the data.
+
+3. For each stage of the data science pipeline: data ingestion, data engineering, analytics computation, 
+
+   and visualization, provide the following:
+
+Describe what work should be done. 
+
+Estimate the working hours needed for each stage.
+
+Provide markups (or screenshots) for anticipated results.
+
+For example:
+
+A markup table with some sample data. 
+
+A markup pie chart to demonstrate results. 
+
+4. For the deliverable stage, describe what you intend to deliver to your customers
+
+   and how to deliver them.
+
+For example:
+
+A written report + a PPT presentation + a Python program.
+
+As a data scientist yourself, please provide your professional feedback to your peer's project.
+
+I suggest include the following:
+
+Your overall impression of this project plan.
+
+What are the nice ideas of this project?
+
+What are the challenges in this project?
+
+What are your suggestions to this plan?
+
+
+Suggested length of feedback: one paragraph

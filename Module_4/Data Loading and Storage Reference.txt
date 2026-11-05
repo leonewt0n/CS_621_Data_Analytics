@@ -1,0 +1,6 @@
+You will find more reference regarding how to load various kinds of data into Pandas in book:
+
+Python for Data Analysis, 
+https://wesmckinney.com/book/
+
+Chapter 6: "Data Loading, Storage, and File Formats."

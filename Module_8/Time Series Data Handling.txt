@@ -1,0 +1,6 @@
+More information about handling time series data can be found in Pandas book:
+
+Python for Data Analysis -- 
+https://wesmckinney.com/book/
+
+Chapter 11: "Time Series"

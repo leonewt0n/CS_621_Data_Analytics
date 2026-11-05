@@ -1,0 +1,19 @@
+For getting free text data, online books could be a good option.
+
+Check free online books here:
+
+https://www.gutenberg.org/
+
+NLTK is a common text processing library in Python. In addition to what we see in this class,
+
+you can find more about using NLTK here:
+
+https://www.nltk.org/
+
+Spacy is another popular library in Python  to deal with text/language data. Check everything about spaCy here:
+
+https://spacy.io/
+
+Gensim is also highly popular among data scientist when dealing with text/language data. Check everything about GENSIMhere:
+
+https://radimrehurek.com/gensim/

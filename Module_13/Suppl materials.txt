@@ -1,0 +1,11 @@
+Many sentiment analysis related datasets can be found here:
+
+https://www.cs.uic.edu/%7Eliub/FBS/sentiment-analysis.html#lexicon
+
+Emoji package can be found here:
+
+https://pypi.org/project/emoji/
+
+More about spaCy Named Entity Recognition can be found here:
+
+https://spacy.io/usage/linguistic-features#named-entities

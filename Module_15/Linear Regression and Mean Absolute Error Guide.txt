@@ -1,0 +1,9 @@
+More about the Linear Regression Model provided by scikit learn is here:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+More about calculating mean absolute error is here:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html
+
+To learn more about Linear Regression, many tutorials and videos are available online. Just search for simple linear regression or just linear regression. You will get plenty of them.  

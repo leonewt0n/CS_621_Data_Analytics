@@ -1,0 +1,11 @@
+You can find out more about scikit-learn here:
+
+https://scikit-learn.org/stable/
+
+More about Decision Tree Classifier APIs is here:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+The original hand-written digits dataset is here:
+
+http://yann.lecun.com/exdb/mnist/
